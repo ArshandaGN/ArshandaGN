@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arshanda Geulis Nawajaputri</h1>
 <h3 align="center"> COMPSCIE AT UNIVERSITAS PERTAMINA!!</h3>
 
-- 👨‍💻 You can also check out my portfolio at [https://ArshandaGN.github.io/](https://ArshandaGN.github.io/)
-
-- 📫 How to reach me **arshandagn06@gmail.com**
+- 📫 How to reach me **arshandagn06@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
